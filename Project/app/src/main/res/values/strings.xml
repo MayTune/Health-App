@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="step_counter">android.hardware.sensor.stepcounter</string>
+    <string name="step_detector">android.hardware.sensor.stepdetector</string>
+    <string name="WaterText">Drinking at least 8 glasses of water everyday(around 2L) is necessary to maintain a healthy level of fluids.</string>
+    <string name="exercise">A healthy mind rests in a healthy body. Use this timer to set your Exercise time and lead a happy and healthy life.</string>
+</resources>
